@@ -1,0 +1,28 @@
+name: Mother of Dogons
+favicon: null
+layout_spectrum: 0.6959755930583924
+typography_spectrum: 0.596929385792464
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7831630914006382
+  lightness: 0.8006711662746966
+  saturation: 0.6635485894512385
+  rhythmicContrast: 0.15729932021349669
+purpose: []
